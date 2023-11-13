@@ -1,11 +1,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxz975)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:wxxz975?theme=rule34">
 
 ## 后端-AI模型边缘部署
 
-热爱技术。工作经验半年。喜欢参与一些开源项目的讨论。
+热爱技术。喜欢参与一些开源项目的讨论。
 
 ### **社交主页：**
 
