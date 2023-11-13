@@ -1,7 +1,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxz975)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" src="https://count.getloli.com/get/@:wxxz975?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:wxxz975?theme=gelbooru">
 
 ## 后端-AI模型边缘部署
 
