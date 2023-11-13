@@ -21,7 +21,7 @@
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=wxxz975&repo=xRayDetection)](https://github.com/wxxz975/xRayDetection)
-
+[![](https://github-readme-stats.vercel.app/api/pin/?username=zhg-SZPT&repo=FastSAM_Awsome_Openvino)](https://github.com/zhg-SZPT/FastSAM_Awsome_Openvino)
 <br><br><br>
 
 ### Github 活跃度
