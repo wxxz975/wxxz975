@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wxxz975)](https://github.com/wxxz975)
+![wxxz975's github stats](https://github-readme-stats.vercel.app/api?username=wxxz975&show_icons=true&theme=vue)
 
 <img align="right" src="https://count.getloli.com/get/@:wxxz975?theme=gelbooru">
 
@@ -19,7 +19,7 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=wxxz975&theme=dracula)](https://github.com/wxxz975)
-![wxxz975's github stats](https://github-readme-stats.vercel.app/api?username=wxxz975&show_icons=true&theme=vue)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxxz975&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wxxz975&layout=compact&langs_count=6)
