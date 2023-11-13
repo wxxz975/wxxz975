@@ -19,6 +19,6 @@
 ### Github 活跃度
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxxz975&langs_count=6)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wxxz975&layout=compact&langs_count=6)
 
