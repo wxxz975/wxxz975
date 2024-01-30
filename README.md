@@ -33,9 +33,7 @@
   
 - 对新技术充满好奇心，乐于学习和探索。
 
-### 🤺 技能
-
-
+### 🤺 Skills
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,vscode,visualstudio,git,linux,cmake,qt,ai,bash,vim,neovim,github" /><br>
 
