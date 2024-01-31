@@ -27,8 +27,7 @@
 
 - 程序员，热爱编程、热爱技术。喜欢参与一些开源项目的讨论。
 - 专注于
-  * AI模型优化部署 (OpenVINO™)[https://github.com/openvinotoolkit/openvino]、(Onnxruntime)[https://github.com/microsoft/onnxruntime]、
-、(Tensorrt)[https://github.com/NVIDIA/TensorRT.git]
+  * AI模型优化部署 (OpenVINO™)[https://github.com/openvinotoolkit/openvino]
   * Windows软件安全、软件逆向
   * 计算机网络
   
