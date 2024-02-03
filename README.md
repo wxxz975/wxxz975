@@ -51,6 +51,7 @@
     * [基于 OpenVINO™ Python API 的 FastSam 模型部署](https://mp.weixin.qq.com/s/h2hG5f3eU1tk9xCvIcuQZw)
     * [基于 OpenVINO™ C++ API 的 FastSAM 模型部署](https://mp.weixin.qq.com/s/8s8YMVpcku8_SNrxDsOaUg)
     * [基于 OpenVINO™ 和 AIxBoard 的智能安检盒子](https://mp.weixin.qq.com/s/gf7Fyim3i7tEEcgBHjaiRw)
+    * [五行关键代码实现的零拷贝技术](https://mp.weixin.qq.com/s/NvMX1pnZmcuN3i5ez7gMCw)
 
 ### 📃 Contact Me
 - Email: 2410772045@qq.com
