@@ -43,7 +43,7 @@
 
 <!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" /> -->
 
-- [粤港澳大湾区人工智能研究院](https://rgzn.szpt.edu.cn/) &emsp; 📌 2023-07-01 —— 2025-05
+- [粤港澳大湾区人工智能研究院](https://rgzn.szpt.edu.cn/) &emsp; 📌 2023-07 —— 2025-05
     
   - 工作岗位：计算机视觉联培生
   - 工作内容：参与数据采集、AI模型训练、模型优化部署
